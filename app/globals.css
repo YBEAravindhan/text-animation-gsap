@@ -24,6 +24,8 @@ h1 {
   line-height: 0.75;
 }
 
+
+
 section {
   position: relative;
   width: 100%;
@@ -57,3 +59,9 @@ section h1 {
   color: var(--base-600);
 }
 
+@media (max-width: 480px) {
+  h1 {
+    line-height: 0.9;
+    letter-spacing: -0.01em;
+  }
+}
