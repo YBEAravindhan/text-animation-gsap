@@ -17,7 +17,7 @@ export default function Home() {
 
       <section className="two">
         <AnimatedHeader animateOnScroll>
-          <h1>Lorem ipsum dolor sit, amet consectetur adipiscing</h1>
+          <h1>Lorem ipsum dolor sit, amet consectetur.</h1>
         </AnimatedHeader>
       </section>
 
